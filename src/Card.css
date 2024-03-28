@@ -1,0 +1,29 @@
+
+
+.main-content {
+    display: flex;
+    margin-bottom: 10vh;
+    padding: 20px;
+    font-family: "Inter", sans-serif;
+}
+
+.main-content img {
+    width: 30vw;
+    height: auto;
+    border-radius: 10px;
+}
+
+.location-info {
+    margin-left: 20px;
+    /* border-bottom: red solid 1px; */
+    border-top: red solid 1px;
+}
+
+.location-info h4 {
+    font-weight: 200;
+    letter-spacing: .3em;
+}
+
+.location-info h1 {
+    font-size: 2em;
+}
